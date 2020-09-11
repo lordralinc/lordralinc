@@ -10,6 +10,8 @@
  
 ## Contact me 
  
-Email: <code>lordralinc@gmail.ru</code> 
+Email: <code>lordralinc@gmail.com</code> 
+
 Telegram: [@lordralinc](https://t.me/lordralinc) 
+
 VK: [@lordralinc](https://vk.com/lordralinc)
