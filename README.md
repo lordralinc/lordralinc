@@ -15,4 +15,4 @@ Email: <code>lordralinc@gmail.com</code>
 
 Telegram: [@lordralinc](https://t.me/lordralinc) 
 
-VK: [@lordralinc](https://vk.com/lordralinc)
+VK: [@lordralinc](https://vk.com/id460908267)
