@@ -41,16 +41,13 @@
 <details>
 <p align="center">
   <a href="https://github.com/lordralinc">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lordralinc&theme=transparent" />
+    <img src="https://raw.githubusercontent.com/lordralinc/gpsc/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="profile details" />
   </a>
   <a href="https://github.com/lordralinc">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordralinc&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/lordralinc">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lordralinc&theme=transparent" />
-  </a>
-  <a href="https://github.com/lordralinc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordralinc&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://raw.githubusercontent.com/lordralinc/gpsc/master/profile-summary-card-output/transparent/3-stats.svg" />
   </a>
 </p>
 </details> 
