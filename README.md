@@ -4,26 +4,26 @@
   <a href="mailto:lordralinc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a src="https://t.me/lordralinc">
+  <a href="https://t.me/lordralinc">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"
   </a>
-  <a src="https://vk.com/id460908267">
+  <a href="https://vk.com/id460908267">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"
   </a>
 </p>
 
-<h2 align="center">На чем я умею писать</h2>
+<h2 align="center">На чем я умею писать (сортировка по опыту)</h2>
 
 <p align="center">
   <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></a>
   <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></a>  
   <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>  
   <a href="https://github.com/lordralinc"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
 </p>
 
-<h2 align="center">Фреймворки и прочая дичь</h2>
+<h2 align="center">Фреймворки и прочая дичь (сортировка по опыту)</h2>
 <p align="center">
   <a href="https://github.com/lordralinc">
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" />
