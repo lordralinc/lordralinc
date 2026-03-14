@@ -1,14 +1,14 @@
 <h1 align="center">Доброго утречка тебе, путник</h1>
 
 <p align="center">
-  <a href="mailto:lordralinc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
   <a href="https://t.me/lordralinc">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"
   </a>
   <a href="https://vk.com/id460908267">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"
+  </a>
+  <a href="mailto:lordralinc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </p>
 
